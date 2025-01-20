@@ -1,4 +1,4 @@
-# v2club_is_invalid
+# v2club
 
 
 v2club各位用户注意：\
